@@ -1,0 +1,51 @@
+body {
+    background-color: antiquewhite;
+  }
+h1 {
+    color: rgb(0, 0, 51);
+    background-color: peru;
+    border-bottom: 20px;
+    border-top: 20px;
+    border-style: double;
+    border-color: peru;
+    border-radius: 15px; 
+    text-align: center;
+    font-size: 70px;
+    margin: 30px 170px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+.button1 {
+    background-color: peru;
+    border: none;
+    color: white;
+    padding: 30px 87px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 32px;
+    margin: 2px 75px;
+    cursor: pointer;
+    }
+.container{
+    background-color: peru;
+  border: none;
+  color: rgb(00, 00, 51);
+  padding: 60px 60px;
+  text-align: center;
+  font-size: 30px;
+  margin: 30px 30px;
+  padding: 40px;
+  float: left;
+}
+.specifications{
+    background-color: peru;
+    color: rgb(0, 0, 51);
+    float: right;
+    text-align: center;
+    border: none;
+    padding: 30px;
+    margin-top: 31px;
+    margin-right: 30px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

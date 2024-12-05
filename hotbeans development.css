@@ -1,0 +1,149 @@
+body {
+    background-color: antiquewhite;
+  }
+h1 {
+    color: rgb(0, 0, 51);
+    background-color: yellowgreen;
+    border-bottom: 20px;
+    border-top: 20px;
+    border-style: double;
+    border-color: yellowgreen;
+    border-radius: 15px; 
+    text-align: center;
+    font-size: 70px;
+    margin: 30px 170px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+.button1 {
+    background-color: yellowgreen;
+    border: none;
+    color: white;
+    padding: 30px 87px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 32px;
+    margin: 2px 75px;
+    cursor: pointer;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+h2 {
+    background-color: yellowgreen;
+    border: none;
+    color: color(00 00 51);
+    padding: 30px 87px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 22px;
+    margin: 2px 75px;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    background-color: yellowgreen;
+    border: none;
+    color: color(00 00 51);
+    padding: 30px 87px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 22px;
+    margin: 125px 75px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.button2 {
+    background-color: white;
+    border-style: groove;
+    color: color( 00 00 00);
+    padding: 40px 87px;
+    text-align: center;
+    text-decoration: none;
+    color:black;
+    display: inline-block;
+    font-size: 42px;
+    margin: 30px 30px;
+    cursor: pointer;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.button3 {
+    background-color: white;
+    border: groove;
+    border-color: black;
+    color: black;
+    padding: 40px 87px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 42px;
+    margin: 30px 30px;
+    cursor: pointer;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+.button4 {
+    background-color: white;
+    border: groove;
+    border-color: black;
+    color: black;
+    padding: 40px 87px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 42px;
+    margin: 30px 30px;
+    cursor: pointer;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.button5 {
+    background-color: white;
+    border: groove;
+    border-color: black;
+    color: black;
+    padding: 40px 87px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 42px;
+    margin: 30px 30px;
+    cursor: pointer;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.button6 {
+    background-color: white;
+    border: groove;
+    border-color: black;
+    color: black;
+    padding: 40px 87px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 42px;
+    margin: 40px 30px;
+    cursor: pointer;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.button7 {
+    background-color: white;
+    border: groove;
+    border-color: black;
+    color: black;
+    padding: 40px 87px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 42px;
+    margin: 40px 30px;
+    cursor: pointer;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.div1{
+    color: rgb(0, 0, 51);
+    background-color: yellowgreen;
+    border-bottom: 20px;
+    border-top: 20px;
+    border-style: double;
+    border-color: yellowgreen;
+    border-radius: 15px; 
+    text-align: center;
+    font-size: 70px;
+    margin: 30px 170px;
+}

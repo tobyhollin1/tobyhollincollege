@@ -1,0 +1,80 @@
+body {
+    background-color: antiquewhite;
+  }
+h1 {
+    color: rgb(0, 0, 51);
+    background-color: skyblue;
+    border-bottom: 20px;
+    border-top: 20px;
+    border-style: double;
+    border-color: skyblue;
+    border-radius: 15px; 
+    text-align: center;
+    font-size: 70px;
+    margin: 30px 170px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+.button1 {
+    background-color: limegreen;
+    border: none;
+    color: white;
+    padding: 25px 51px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 32px;
+    margin: 2px 55px;
+    cursor: pointer;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+.button2 {
+    background-color: palevioletred;
+    border: none;
+    color: white;
+    padding: 25px 49px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 32px;
+    margin: 2px 55px;
+    cursor: pointer;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.button3 {
+    background-color: peru;
+    border: none;
+    color: white;
+    padding: 25px 82px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 32px;
+    margin: 2px 55px;
+    cursor: pointer;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.button4 {
+    background-color: yellowgreen;
+    border: none;
+   color: white;
+   padding: 25px 8px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 32px;
+   margin: 2px 55px;
+   cursor: pointer;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p {
+    background-color: skyblue;
+    border: none;
+    color: black;
+    color: rgb(00, 00, 51);
+    padding: 60px 120px;
+    text-align: left;
+    font-size: 40px;
+    margin: 30px 170px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: copy;
+}
